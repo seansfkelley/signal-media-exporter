@@ -8,3 +8,4 @@ media/
 *.py[cod]
 *$py.class
 config.json
+.DS_Store
