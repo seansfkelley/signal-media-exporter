@@ -1,3 +1,8 @@
+how is this different
+=====================
+
+Forked to make it easier to use/work at all on macOS.
+
 signal-media-exporter
 =====================
 
