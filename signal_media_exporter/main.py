@@ -166,7 +166,7 @@ def main():
         'config': './config.json',
         'maxMessages': 0,
         'outputDir': './media',
-        'signalDir': os.path.join(Path.home(), '.config/Signal'),
+        'signalDir': os.path.join(Path.home(), 'Library/Application Support/Signal'),
         'sqlcipher': {
             'cipher_compatibility': 4
         }
