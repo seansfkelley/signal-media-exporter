@@ -12,7 +12,7 @@ import sys
 
 from datetime import datetime
 from pathlib import Path
-from sqlcipher3 import dbapi2 as sqlite
+from pysqlcipher3 import dbapi2 as sqlite
 from contextlib import contextmanager
 from alive_progress import alive_bar
 
